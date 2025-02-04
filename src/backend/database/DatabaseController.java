@@ -17,15 +17,12 @@ public class DatabaseController {
 	// same database, causing lots of conflicts.
 	//       Username     / Password
 	//       -----------------------
-	// DB 1: busybunch    / Csci230$
-	// DB 2: collegeville / Csci230$
-	// DB 3: cppstudents  / Csci230$
-	// DB 4: dataminers   / Csci230$
-	// DB 5: dreamteam    / Csci230$
-	// DB 6: indexout     / Csci230$
-	// DB 7: liquidmist   / Csci230$
-	// DB 8: terror       / Csci230$
-	private static UniversityDBLibrary database = new UniversityDBLibrary("busybunch", "Csci230$");
+	// DB 1: busyteam    / Csci230$
+	// DB 2: funteam     / Csci230$
+	// DB 3: otherteam   / Csci230$
+	// DB 4: myteam      / Csci230$
+	// DB 5: lastteam    / Csci230$
+	private static UniversityDBLibrary database = new UniversityDBLibrary("busyteam", "Csci230$");
 
 	// 
 	/**
