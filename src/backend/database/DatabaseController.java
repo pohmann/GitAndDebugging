@@ -9,7 +9,7 @@ import dblibrary.project.csci230.UniversityDBLibrary;
 public class DatabaseController {
 	// NOTE: You can log in to the database from your browser to check the expected
 	// data in your database at the following link:
-	//    http://devsrv.cs.csbsju.edu/phpmyadmin
+	//    https://cscimysqlsrv.csbsju.edu/
 
 	// TODO: add a login username and password to connect to the database
 	// I created/saved a few databases (all with the same structure) that you can
